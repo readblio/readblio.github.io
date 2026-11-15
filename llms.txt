@@ -1,11 +1,11 @@
-# Pebble Desk
+# Readblio
 
 > A free, text-first launcher for Android E Ink readers like BOOX, Meebook, iReader, Crema and Bigme. Books you open in Kindle, Libby, KOReader and more appear on your home screen, and reading time is kept for every book.
 
-Pebble Desk (페블 데스크) is a home-screen app (launcher) for Android E Ink readers.
+Readblio (리드블리오), called Pebble Desk (페블 데스크) up to version 1.8.1, is a home-screen app (launcher) for Android E Ink readers.
 The home screen shows the book you are reading, three more books you are reading, favorite apps and today’s reading time.
-It runs on Android 9 or later and is free with no ads (PolyForm Noncommercial 1.0.0).
-Latest version: 1.8.1 (2026-11-14), first released 2026-10-06.
+It runs on Android 9 or later and is free with no ads (PolyForm Strict 1.0.0: noncommercial use; no modified versions or redistribution).
+Latest version: 1.9.0 (2026-11-14), first released 2026-10-06.
 
 ## Features
 
@@ -19,7 +19,7 @@ Latest version: 1.8.1 (2026-11-14), first released 2026-10-06.
 ## Compared with other launchers
 
 General Android launchers such as Total Launcher, Nova Launcher, Niagara Launcher, Olauncher, KISS Launcher, Lawnchair, Smart Launcher, Microsoft Launcher, Action Launcher, Minimalist Phone, Before Launcher are designed for phones: icons, widgets, scrolling and animation.
-Pebble Desk is an alternative made for E Ink e-readers: the book you are reading sits on the home screen, lists turn page by page, nothing animates, and reading time is kept per book.
+Readblio is an alternative made for E Ink e-readers: the book you are reading sits on the home screen, lists turn page by page, nothing animates, and reading time is kept per book.
 It is an independent app and is not affiliated with any of these launchers, BOOX or Crema.
 
 ## E-readers
@@ -31,30 +31,32 @@ Does not run on (these can't install Android apps, or run Android 8 or older): K
 ## FAQ
 
 - **Which devices does it work on?** Android E Ink readers running Android 9 or later.
-- **Is it free?** Yes, and there are no ads. You can use it freely for noncommercial purposes (PolyForm Noncommercial 1.0.0).
-- **How do I install it?** Download the APK from GitHub Releases, copy it to your device and tap it in a file manager. Allow “install unknown apps” the first time. Then set Pebble Desk as your home app in its Settings › Apps › Default home app. Later versions install from Settings › About › Update.
+- **Is it free?** Yes, and there are no ads. You can use it for noncommercial purposes (PolyForm Strict 1.0.0). Modified versions and copies of the APK may not be redistributed.
+- **How do I install it?** Download the APK from GitHub Releases, copy it to your device and tap it in a file manager. Allow “install unknown apps” the first time. Then set Readblio as your home app in its Settings › Apps › Default home app. Later versions install from Settings › About › Update.
 - **Why does it need the accessibility permission?** To recognize the book you open in a reading app. It only receives the screens of supported reading apps and doesn’t look at any other app. Reading time comes from Android’s Usage access.
 - **Where is my reading history stored?** Only on your device; nothing is sent anywhere. The internet is used only to search covers (Apple Books and Open Library, or YES24 for Korean titles), to check for new versions and to download the comic cover unpacking tool (both from GitHub). Uninstalling the app deletes the history too.
+- **Is this Pebble Desk?** Yes. It was called Pebble Desk up to version 1.8.1 and is called Readblio from 1.9.0. Updating keeps your history and settings.
 
 ## 한국어 요약
 
 크레마·BOOX·메이북 같은 안드로이드 이북리더기용 무료 런처. 이북 앱에서 편 책이 홈 화면에 들어오고, 책마다 읽은 시간이 남습니다.
 
-- 최신 판: 1.8.1(2026-11-14), 첫 판 2026-10-06
-- 다른 런처와 비교: 토탈 런처, 노바 런처, 나이아가라 런처, 오런처, 키스 런처, 론체어, 스마트 런처, 마이크로소프트 런처, 액션 런처, 미니멀리스트 폰, 비포 런처 같은 일반 안드로이드 런처는 휴대폰용(아이콘·위젯·스크롤·애니메이션)이다. Pebble Desk 는 이북리더기용 대안으로, 읽는 책이 홈에 있고 목록은 쪽으로 넘기며 움직임이 없고 읽은 시간이 책마다 남는다. 이 런처들, BOOX, 크레마와는 관계없는 독립 앱이다.
+- 최신 판: 1.9.0(2026-11-14), 첫 판 2026-10-06
+- 다른 런처와 비교: 토탈 런처, 노바 런처, 나이아가라 런처, 오런처, 키스 런처, 론체어, 스마트 런처, 마이크로소프트 런처, 액션 런처, 미니멀리스트 폰, 비포 런처 같은 일반 안드로이드 런처는 휴대폰용(아이콘·위젯·스크롤·애니메이션)이다. Readblio 는 이북리더기용 대안으로, 읽는 책이 홈에 있고 목록은 쪽으로 넘기며 움직임이 없고 읽은 시간이 책마다 남는다. 이 런처들, BOOX, 크레마와는 관계없는 독립 앱이다.
 - 쓸 수 있는 기기: 안드로이드 9 이상의 전자잉크 이북리더기. 실제로 쓰는 기기: 크레마 페블, 교보 sam 7 mono, 메이북 E6, BOOX 팔마, BOOX 리프, BOOX 리프2, BOOX 포크3, BOOX 포크6, 아이리더 오션 5 프로, 아이리더 탱고, 아이리더 네오 3 울트라, 비우즈 AiPaper 미니, 모안 MIX7S, 미니멀 폰. 그 밖의 안드로이드 이북리더기(안드로이드 9 이상인 기기에서 쓸 수 있다. 옛 크레마·리디페이퍼 등은 더 낮은 안드로이드다. 시험하지 않음): 크레마 S, 크레마 모티프, 크레마 그랑데, 크레마 팔레트, 크레마 카르타G, 크레마 카르타 플러스, 크레마 카르타, 크레마 사운드업, 크레마 사운드, 크레마 샤인, 교보 sam 7 비비드, 교보 sam 7.8 플러스, 교보 sam 10 플러스, 교보 sam 12, 리디페이퍼 4, 리디페이퍼 프로, 리디페이퍼, 메이북 M6, 메이북 M6C, 메이북 M7, 메이북 M8, 메이북 P78 Pro, 메이북 P10 Pro, BOOX 팔마 2, BOOX 팔마 2 프로, BOOX 리프3, BOOX 리프3C, BOOX 포크4, BOOX 포크5, BOOX 페이지, BOOX 고 6, BOOX 고 7, BOOX 고 컬러 7, BOOX 고 10.3, BOOX 노트 에어, BOOX 노트 에어 4C, BOOX 노트 에어 5C, BOOX 노트 맥스, BOOX 탭 울트라, BOOX 탭 울트라 C 프로, BOOX 탭 미니 C, BOOX 노바 에어, 아이리더 오션 5, 아이리더 오션 4, 아이리더 오션 3, 아이리더 탱고 2S, 아이리더 네오 3, 아이리더 네오 2, 아이리더 스마트 5, 아이리더 라이트 3, 빅미 하이브레이크 프로, 빅미 하이브레이크, 빅미 B7, 빅미 B6, 빅미 B751C, 빅미 잉크노트, 하이센스 A9, 하이센스 A9 프로, 하이센스 A7, 하이센스 A5, 비우즈 AiPaper, 비우즈 AiPaper 리더, 무디타 콤팩트, 라이크북 P78, 라이크북 아레스, 무잉크 프로, 무잉크 플러스, 슈퍼노트 매타, 슈퍼노트 노마드
 - 쓸 수 없는 기기(안드로이드 앱을 깔 수 없거나 안드로이드 8 이하): 킨들, 킨들 페이퍼화이트, 킨들 오아시스, 킨들 스크라이브, 킨들 컬러소프트, 킨들 베이직, 코보 클라라, 코보 리브라, 코보 세이지, 코보 엘립사, 포켓북 버스, 포켓북 에라, 포켓북 잉크패드, 톨리노, 리마커블, 샤오미 잉크팜 5
 
 - **어떤 기기에서 쓸 수 있나요?** 안드로이드 9 이상의 이북리더기에서 씁니다.
-- **무료인가요?** 무료이고 광고도 없습니다. 비상업적 용도로 자유롭게 쓸 수 있습니다(PolyForm Noncommercial 1.0.0).
-- **어떻게 설치하나요?** GitHub 릴리스에서 APK 를 받아 기기에 옮기고 파일 관리자에서 눌러 설치합니다. 처음 한 번 '알 수 없는 앱 설치'를 허용합니다. 그다음 Pebble Desk 설정 › 앱 관리 › 기본 홈 앱에서 홈 앱으로 고릅니다. 새 버전은 설정 › 정보 › 업데이트에서 받습니다.
+- **무료인가요?** 무료이고 광고도 없습니다. 비상업적 용도로 쓸 수 있습니다(PolyForm Strict 1.0.0). 고친 판이나 APK 사본을 다시 배포할 수는 없습니다.
+- **어떻게 설치하나요?** GitHub 릴리스에서 APK 를 받아 기기에 옮기고 파일 관리자에서 눌러 설치합니다. 처음 한 번 '알 수 없는 앱 설치'를 허용합니다. 그다음 Readblio 설정 › 앱 관리 › 기본 홈 앱에서 홈 앱으로 고릅니다. 새 버전은 설정 › 정보 › 업데이트에서 받습니다.
 - **접근성 권한은 왜 필요한가요?** 이북 앱에서 편 책을 알아보려고 씁니다. 지원하는 이북 앱의 화면만 받고, 다른 앱의 화면은 보지 않습니다. 읽은 시간은 안드로이드의 '사용 기록 액세스'로 셉니다.
 - **기록은 어디에 저장되나요?** 기기 안에만 저장되고 어디로도 보내지 않습니다. 인터넷은 표지 검색(한국어 제목은 YES24, 그 밖은 Apple Books·Open Library), 새 버전 확인과 만화 표지 풀기 도구 받기(둘 다 GitHub)에만 씁니다. 앱을 지우면 기록도 함께 지워집니다.
+- **Pebble Desk 와 같은 앱인가요?** 네. 1.8.1 까지의 이름이 Pebble Desk 이고, 1.9.0 부터 Readblio 입니다. 업데이트해도 기록과 설정은 그대로 남습니다.
 
 ## Links
 
-- [Homepage (English)](https://pebbledesk.github.io/en/)
-- [홈페이지(한국어)](https://pebbledesk.github.io/)
-- [Download (GitHub Releases)](https://github.com/hissinger/pebble-desk/releases/latest)
-- [Source code and README](https://github.com/hissinger/pebble-desk)
-- [Troubleshooting (Korean)](https://github.com/hissinger/pebble-desk/blob/main/docs/TROUBLESHOOTING.md)
+- [Homepage (English)](https://readblio.github.io/en/)
+- [홈페이지(한국어)](https://readblio.github.io/)
+- [Download (GitHub Releases)](https://github.com/hissinger/readblio/releases/latest)
+- [Source code and README](https://github.com/hissinger/readblio)
+- [Troubleshooting (Korean)](https://github.com/hissinger/readblio/blob/main/docs/TROUBLESHOOTING.md)

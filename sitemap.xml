@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pebbledesk.github.io/</loc>
+    <loc>https://readblio.github.io/</loc>
     <lastmod>2026-11-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://pebbledesk.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pebbledesk.github.io/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pebbledesk.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://readblio.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://readblio.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://readblio.github.io/"/>
   </url>
   <url>
-    <loc>https://pebbledesk.github.io/en/</loc>
+    <loc>https://readblio.github.io/en/</loc>
     <lastmod>2026-11-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://pebbledesk.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://pebbledesk.github.io/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://pebbledesk.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://readblio.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://readblio.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://readblio.github.io/"/>
   </url>
 </urlset>
